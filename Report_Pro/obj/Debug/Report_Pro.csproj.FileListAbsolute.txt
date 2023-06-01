@@ -2464,3 +2464,4 @@ C:\Walid Soft\Report_Pro\obj\Debug\Report_Pro.exe
 C:\Walid Soft\Report_Pro\obj\Debug\Report_Pro.pdb
 C:\Walid Soft\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Inventory_Report_ByGroup.resources
 C:\Walid Soft\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Inventory_Report_ByGroup.ar.resources
+C:\Walid Soft\Report_Pro\obj\Debug\Report_Pro.csprojAssemblyReference.cache
