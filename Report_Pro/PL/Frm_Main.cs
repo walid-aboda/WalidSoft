@@ -1714,7 +1714,7 @@ namespace Report_Pro.PL
 
         private void buttonItem10_Click(object sender, EventArgs e)
         {
-            openForm(new Forms.frmWord(), FormWindowState.Maximized, 0);
+          //  openForm(new Forms.frmWord(), FormWindowState.Maximized, 0);
 
         }
 

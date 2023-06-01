@@ -569,12 +569,6 @@
     <Compile Include="Forms\frmCoileClose.Designer.cs">
       <DependentUpon>frmCoileClose.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\frmWord.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Forms\frmWord.Designer.cs">
-      <DependentUpon>frmWord.cs</DependentUpon>
-    </Compile>
     <Compile Include="Forms\frm_AccessProfile.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -2503,6 +2497,7 @@
     </EmbeddedResource>
     <EmbeddedResource Include="CTR\frm_Bank_payment_voucher.resx">
       <DependentUpon>frm_Bank_payment_voucher.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="CTR\frm_ChequeBanks.ar.resx">
       <DependentUpon>frm_ChequeBanks.cs</DependentUpon>
@@ -2624,9 +2619,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\frmCoileClose.resx">
       <DependentUpon>frmCoileClose.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Forms\frmWord.resx">
-      <DependentUpon>frmWord.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\frm_AccessProfile.resx">
       <DependentUpon>frm_AccessProfile.cs</DependentUpon>
