@@ -255,8 +255,6 @@
             this.btnChangeStore});
             this.fluentDesignFormControl1.Name = "fluentDesignFormControl1";
             this.fluentDesignFormControl1.TabStop = false;
-            this.fluentDesignFormControl1.TitleItemLinks.Add(this.barStaticItem1);
-            this.fluentDesignFormControl1.TitleItemLinks.Add(this.btnChangeStore);
             // 
             // cmbYear
             // 
@@ -363,16 +361,16 @@
             // ribbonControl1
             // 
             resources.ApplyResources(this.ribbonControl1, "ribbonControl1");
+            this.ribbonControl1.Controls.Add(this.ribbonPanel1);
+            this.ribbonControl1.Controls.Add(this.ribbonPanel2);
+            this.ribbonControl1.Controls.Add(this.ribbonPanel8);
+            this.ribbonControl1.Controls.Add(this.ribbonPanel7);
             this.ribbonControl1.Controls.Add(this.ribbonPanel6);
             this.ribbonControl1.Controls.Add(this.ribbonPanel10);
             this.ribbonControl1.Controls.Add(this.ribbonPanel9);
-            this.ribbonControl1.Controls.Add(this.ribbonPanel8);
-            this.ribbonControl1.Controls.Add(this.ribbonPanel7);
             this.ribbonControl1.Controls.Add(this.ribbonPanel5);
             this.ribbonControl1.Controls.Add(this.ribbonPanel4);
             this.ribbonControl1.Controls.Add(this.ribbonPanel3);
-            this.ribbonControl1.Controls.Add(this.ribbonPanel2);
-            this.ribbonControl1.Controls.Add(this.ribbonPanel1);
             this.ribbonControl1.Items.AddRange(new DevComponents.DotNetBar.BaseItem[] {
             this.rb_MainData,
             this.rb_Sales,
@@ -1326,6 +1324,7 @@
             // rb_MainData
             // 
             resources.ApplyResources(this.rb_MainData, "rb_MainData");
+            this.rb_MainData.Checked = true;
             this.rb_MainData.FontBold = true;
             this.rb_MainData.Name = "rb_MainData";
             this.rb_MainData.PaddingHorizontal = 5;
@@ -1368,7 +1367,6 @@
             // rb_Inventory
             // 
             resources.ApplyResources(this.rb_Inventory, "rb_Inventory");
-            this.rb_Inventory.Checked = true;
             this.rb_Inventory.FontBold = true;
             this.rb_Inventory.Name = "rb_Inventory";
             this.rb_Inventory.PaddingHorizontal = 5;

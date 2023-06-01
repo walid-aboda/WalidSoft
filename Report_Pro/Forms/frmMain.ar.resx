@@ -133,132 +133,352 @@
   <data name="ribbonBar7.Text" xml:space="preserve">
     <value>التقارير</value>
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="barStaticItem1.ImageOptions.ImageIndex" type="System.Int32, mscorlib">
-    <value>-1</value>
+  <data name="btnBackup.Text" xml:space="preserve">
+    <value>النسخ الاحتياطي</value>
   </data>
-  <data name="barStaticItem1.ImageOptions.LargeImageIndex" type="System.Int32, mscorlib">
-    <value>-1</value>
+  <data name="btnRestor.Text" xml:space="preserve">
+    <value>استعادة من نسخة احتياطية</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="barStaticItem1.ImageOptions.SvgImage" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="btnScan.Text" xml:space="preserve">
+    <value>مسح ضوئي</value>
   </data>
-  <data name="btnChangeStore.ImageOptions.ImageIndex" type="System.Int32, mscorlib">
-    <value>-1</value>
+  <data name="ribbonBar9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>305, 0</value>
   </data>
-  <data name="btnChangeStore.ImageOptions.LargeImageIndex" type="System.Int32, mscorlib">
-    <value>-1</value>
+  <data name="ribbonBar9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>248, 94</value>
   </data>
-  <data name="btnChangeStore.ImageOptions.SvgImage" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="ribbonBar9.Text" xml:space="preserve">
+    <value>.</value>
   </data>
-  <data name="barButtonItem1.ImageOptions.ImageIndex" type="System.Int32, mscorlib">
-    <value>-1</value>
+  <data name="btnCofig.Text" xml:space="preserve">
+    <value>الاعدادات</value>
   </data>
-  <data name="barButtonItem1.ImageOptions.LargeImageIndex" type="System.Int32, mscorlib">
-    <value>-1</value>
+  <data name="btnCompanyData.Text" xml:space="preserve">
+    <value>بيانات الشركات</value>
   </data>
-  <data name="barButtonItem1.ImageOptions.SvgImage" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="btnStores.Text" xml:space="preserve">
+    <value>المستودعات</value>
   </data>
-  <data name="barButtonItem2.ImageOptions.ImageIndex" type="System.Int32, mscorlib">
-    <value>-1</value>
+  <data name="btnBanks.Text" xml:space="preserve">
+    <value>البنوك</value>
   </data>
-  <data name="barButtonItem2.ImageOptions.LargeImageIndex" type="System.Int32, mscorlib">
-    <value>-1</value>
+  <data name="buttonItem22.Text" xml:space="preserve">
+    <value>Stores_11</value>
   </data>
-  <data name="barButtonItem2.ImageOptions.SvgImage" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="ribbonBar1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>295, 94</value>
   </data>
-  <data name="barEditItem1.ImageOptions.ImageIndex" type="System.Int32, mscorlib">
-    <value>-1</value>
+  <data name="ribbonBar1.Text" xml:space="preserve">
+    <value>البيانات الاساسية</value>
   </data>
-  <data name="barEditItem1.ImageOptions.LargeImageIndex" type="System.Int32, mscorlib">
-    <value>-1</value>
-  </data>
-  <data name="barEditItem1.ImageOptions.SvgImage" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="btnChangeBranch.ImageOptions.ImageIndex" type="System.Int32, mscorlib">
-    <value>-1</value>
-  </data>
-  <data name="btnChangeBranch.ImageOptions.LargeImageIndex" type="System.Int32, mscorlib">
-    <value>-1</value>
-  </data>
-  <data name="btnChangeBranch.ImageOptions.SvgImage" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="barStaticItem2.ImageOptions.ImageIndex" type="System.Int32, mscorlib">
-    <value>-1</value>
-  </data>
-  <data name="barStaticItem2.ImageOptions.LargeImageIndex" type="System.Int32, mscorlib">
-    <value>-1</value>
-  </data>
-  <data name="barStaticItem2.ImageOptions.SvgImage" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="barEditItem2.ImageOptions.ImageIndex" type="System.Int32, mscorlib">
-    <value>-1</value>
-  </data>
-  <data name="barEditItem2.ImageOptions.LargeImageIndex" type="System.Int32, mscorlib">
-    <value>-1</value>
-  </data>
-  <data name="barEditItem2.ImageOptions.SvgImage" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="barButtonItem3.ImageOptions.ImageIndex" type="System.Int32, mscorlib">
-    <value>-1</value>
-  </data>
-  <data name="barButtonItem3.ImageOptions.LargeImageIndex" type="System.Int32, mscorlib">
-    <value>-1</value>
-  </data>
-  <data name="barButtonItem3.ImageOptions.SvgImage" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="btnItems.Text" xml:space="preserve">
-    <value>الاصناف</value>
-  </data>
-  <data name="ribbonBar8.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 94</value>
-  </data>
-  <data name="ribbonBar8.Text" xml:space="preserve">
-    <value>الحركة</value>
-  </data>
-  <data name="ribbonPanel6.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="ribbonPanel1.Size" type="System.Drawing.Size, System.Drawing">
     <value>1198, 97</value>
   </data>
-  <data name="btnProjects.Text" xml:space="preserve">
-    <value>المشاريع</value>
+  <data name="btnSalesRpt.Text" xml:space="preserve">
+    <value>تقارير المبيعات</value>
   </data>
-  <data name="btnInvoice.Text" xml:space="preserve">
+  <data name="btnSalesVatRpt.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="btnSalesVatRpt.Text" xml:space="preserve">
+    <value>تقارير ضريبة المبيعات</value>
+  </data>
+  <data name="btnItemQuery.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="btnItemQuery.Text" xml:space="preserve">
+    <value>استعلام صنف</value>
+  </data>
+  <data name="btnClientTB.Text" xml:space="preserve">
+    <value>ميزان العملاء</value>
+  </data>
+  <data name="btnCashClientSalesRpt.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="btnCashClientSalesRpt.Text" xml:space="preserve">
+    <value>تقرير مبيعات عميل نقدي</value>
+  </data>
+  <data name="Reports.Size" type="System.Drawing.Size, System.Drawing">
+    <value>564, 94</value>
+  </data>
+  <data name="Reports.Text" xml:space="preserve">
+    <value>التقارير</value>
+  </data>
+  <data name="btnClient.Text" xml:space="preserve">
+    <value>العملاء</value>
+  </data>
+  <data name="btnSalesQuotation.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="btnSalesQuotation.Text" xml:space="preserve">
+    <value>عرض سعر</value>
+  </data>
+  <data name="btnSalesOrder.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="btnSalesOrder.Text" xml:space="preserve">
+    <value>امر بيع</value>
+  </data>
+  <data name="buttonItem15.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="buttonItem15.Text" xml:space="preserve">
+    <value>اشعار شحن</value>
+  </data>
+  <data name="btn_SalesInvoice.Text" xml:space="preserve">
     <value>فاتورة مبيعات</value>
   </data>
-  <data name="ribbonBar15.Size" type="System.Drawing.Size, System.Drawing">
-    <value>184, 94</value>
+  <data name="btnSalesReturn.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
   </data>
-  <data name="ribbonBar15.Text" xml:space="preserve">
+  <data name="btnSalesReturn.Text" xml:space="preserve">
+    <value>مرتجع مبيعات</value>
+  </data>
+  <data name="ribbonBar2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>468, 94</value>
+  </data>
+  <data name="ribbonBar2.Text" xml:space="preserve">
     <value>الحركة</value>
   </data>
-  <data name="ribbonPanel10.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1198, 97</value>
-  </data>
-  <data name="btn_AssetAdditions.Text" xml:space="preserve">
-    <value>اضافة علي اصل</value>
-  </data>
-  <data name="btnAssetes.Text" xml:space="preserve">
-    <value>سجل الاصول</value>
-  </data>
-  <data name="btn_AssetesGroup.Text" xml:space="preserve">
-    <value>مجموعات الاصول</value>
-  </data>
-  <data name="ribbonBar14.Size" type="System.Drawing.Size, System.Drawing">
-    <value>184, 94</value>
-  </data>
-  <data name="ribbonBar14.Text" xml:space="preserve">
-    <value>الحركة</value>
-  </data>
-  <data name="ribbonPanel9.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="ribbonPanel2.Size" type="System.Drawing.Size, System.Drawing">
     <value>1198, 97</value>
   </data>
   <data name="btn_AccessProfile.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
@@ -606,8 +826,54 @@
   <data name="ribbonPanel7.Size" type="System.Drawing.Size, System.Drawing">
     <value>1198, 97</value>
   </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="ribbonPanel7.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
+  </data>
+  <data name="btnItems.Text" xml:space="preserve">
+    <value>الاصناف</value>
+  </data>
+  <data name="ribbonBar8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>108, 94</value>
+  </data>
+  <data name="ribbonBar8.Text" xml:space="preserve">
+    <value>الحركة</value>
+  </data>
+  <data name="ribbonPanel6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1198, 97</value>
+  </data>
+  <data name="btnProjects.Text" xml:space="preserve">
+    <value>المشاريع</value>
+  </data>
+  <data name="btnInvoice.Text" xml:space="preserve">
+    <value>فاتورة مبيعات</value>
+  </data>
+  <data name="ribbonBar15.Size" type="System.Drawing.Size, System.Drawing">
+    <value>184, 94</value>
+  </data>
+  <data name="ribbonBar15.Text" xml:space="preserve">
+    <value>الحركة</value>
+  </data>
+  <data name="ribbonPanel10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1198, 97</value>
+  </data>
+  <data name="btn_AssetAdditions.Text" xml:space="preserve">
+    <value>اضافة علي اصل</value>
+  </data>
+  <data name="btnAssetes.Text" xml:space="preserve">
+    <value>سجل الاصول</value>
+  </data>
+  <data name="btn_AssetesGroup.Text" xml:space="preserve">
+    <value>مجموعات الاصول</value>
+  </data>
+  <data name="ribbonBar14.Size" type="System.Drawing.Size, System.Drawing">
+    <value>184, 94</value>
+  </data>
+  <data name="ribbonBar14.Text" xml:space="preserve">
+    <value>الحركة</value>
+  </data>
+  <data name="ribbonPanel9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1198, 97</value>
   </data>
   <data name="btnCoilReport.Text" xml:space="preserve">
     <value>تقرير الكويل</value>
@@ -922,351 +1188,6 @@
   <data name="ribbonBar3.Text" xml:space="preserve">
     <value>الحركة</value>
   </data>
-  <data name="btnSalesRpt.Text" xml:space="preserve">
-    <value>تقارير المبيعات</value>
-  </data>
-  <data name="btnSalesVatRpt.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        xAAADsQBlSsOGwAABpdJREFUWEedV1lvlGUU7n8wcmGiiaCJJsIFgQuujL9Cr4xy44VX4oZbAFmUsrSU
-        RSgCrWJIxIS9+zrTlk0p1FLKlC5s3VhK59tmYebxed6vb/06nYo6yZn3vOc93znPWd4z35SkUikEQQDX
-        deH7PrQX73me4bVqL51ieiLxki2kZ20U6mlfIkZCKWnVPspHz4rpiZ6lZ/eFetqXCI1FpwPHcQyvQ/FS
-        1D4TeMDTAECWawr5jA9+GTI8ZeYsQx3tjV46PMulyWeMPfmwvuS3RA4KUUV5rcilcGX4ET482outNbew
-        5dwAtpwlaY3y0dUS9+tPJXDyj/vIZ8MSWPsi0wNiotFGkSqyvruP8eKnbfi56y4jo0wRmWgJzkZL2Wy0
-        BVkRv70mQXl2ni9TAutMqw7FK3pkffTdm8JrX3dgxcbzONQ2NMeIdApL5dEe8nRMEJLJvta9LSPEFkZv
-        fZkSiBHZ1Fse+bSJXM7fLL2IlZvO43D78Kxh6Wm1zxkA5PP5HFZtvYzPjveZbPgzZ7ub+Gw21I36KloC
-        pVXOX59x/ta2S1jJDFR13iGusHbSUwSiWRusBPrq0HKpD10DD5BN+UinWVLqlNXNLYFA6LnZJhQJUTYd
-        4DqdP/9RK95Y14llpKWkxV/EsLd5MIxqRtc8lwO8p4CfB4LrTfDObAa3xk7UbkUjy8cmnH1uhuZdQ0VY
-        0TyC4fFpDI0+wu2Jadx96GDg3kNMPk6q3YxT0yvkk6c3wTnwNvzeRqRqt0LtqVTnsiFQ12W0XBfsAZs+
-        bbSqxjvqBpDmvZeRDNOY8j1e45QxPt1QgeSxNYZ/cnwtkv2dSBEQ4vvlGt28rp//1o8rg5MMOECa9mW7
-        nDajjTlbAjFzAOQy2Fk/QITKStgs5gEad+rLkLx8At7ECKa/WwUnccGkn0hx7PdJxG5MoKF3Ei/wyp67
-        Okp/chKO5fL6W8Z21Jd8zytBLs16sQSpIEyfFJXqJzU7kLzwqymB/QTZnHGAfICXv4zjnYNXEb8xhiVf
-        xVH/57gZPHNLEHb+nBLIgSUJNT7LGge513WhPGCJxgaR7PrFAJl2XKzglfyeExEsxFONXsJauqETq6t6
-        0JV4YADU9YwZALIhuxW0Kdvioz7nXUNdle21CTNQdIX0gOMxC0x1mtE+mprGS2tj2HA6gQfkO/snDIBl
-        G7rwftU1XBx6TAAx1F4bZcbZA7qGBF14DbWaHlAa5MQOB43NXRwaIfK/a6XOVsQuwSxmuktrBrCPaX1u
-        TSseTjlYzqysru5BR/94WIKZDFgbe5qHje2oL1MCC8DWRY2zi8pRAOrebXT47qFrvN/pEEDtAI7E7xhn
-        U9PFAYT3PgogdDynB/5NCZAL8MFPvcZwxnexhAC21w+isnUIr1CW9AIs3zi/BHK4UAmUBVMCCSwZZ/wF
-        K2tgE5JX9xpQyOA9Rq/a624v+rgNG88ksI9RLfqkFY+nXbz6DW9BZTfa+yfN+ZluApjXhGFAUZ9FrmE4
-        CaPXUC8TjT2jqI6PIJtJoyp+GxcSExzZU6juuINk0sGx83fRdH2Ck3MKR2LDGJ5ImqZ95iRUKuTEIgsH
-        0S1mYOZHht3v8vJz1JuP9vpoz/ch87Grjiyv6Shd2ZCjBQeRcRIRquE0ik0P0IvL6edxxrs1IXm1pXBF
-        M7zZ6yzKW73T3yJNIAZAwSjWKt//PAkzeXixIwjaDyLZsh9OywEEsR/htlUi2bwfPuUi8ZLpTDrSFe81
-        7oabfsoSBP9lEqZQzp/OQJOQKfTafkCyYSe8lgpDycZyuM274LfshkNeJF4ynVk9p7EMbl0p/CyD4Oww
-        P8fFmtCWoOg1VAniVXAYnR8/ZMhhxB6jC+KH4bYzGyTxkulsVq/tIEHtMSUo9kKi1ZRAiER2OmnimUlI
-        BYO+6yiCToKIHYYTZzm6quF2HEEyRked1YbES6Yz6UhXvNfGMmVyxtmCr2SqgxhbF41L2wMeH/ZozG87
-        AJd1dVvDunvcO9z7ykx7peEl05l0pCu511QBN6Wo2QO0aUfxnB4oVoLSmpvmvdB8xv4E7ncD41xF969S
-        1gNMkB8lLxIvmc7GuVo9PcdPsdfyeZNQiLRqep3gn4j1J29iM6fd5poh0vD/p7MJrKOtUwv9MSm8hkKn
-        yac7K+T2z4XJiPlFJE+ZOaPOPD3paG/0Zv6sSG+hv2aFk9A2iOWjZ8X0RM/Ss/tCPe1ND4gRGgm1Fy+l
-        KFL7cKGeSLw9k561V2ijUC+VSuEvmUakUrFKuNIAAAAASUVORK5CYII=
-</value>
-  </data>
-  <data name="btnSalesVatRpt.Text" xml:space="preserve">
-    <value>تقارير ضريبة المبيعات</value>
-  </data>
-  <data name="btnItemQuery.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        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
-</value>
-  </data>
-  <data name="btnItemQuery.Text" xml:space="preserve">
-    <value>استعلام صنف</value>
-  </data>
-  <data name="btnClientTB.Text" xml:space="preserve">
-    <value>ميزان العملاء</value>
-  </data>
-  <data name="btnCashClientSalesRpt.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        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
-</value>
-  </data>
-  <data name="btnCashClientSalesRpt.Text" xml:space="preserve">
-    <value>تقرير مبيعات عميل نقدي</value>
-  </data>
-  <data name="Reports.Size" type="System.Drawing.Size, System.Drawing">
-    <value>564, 94</value>
-  </data>
-  <data name="Reports.Text" xml:space="preserve">
-    <value>التقارير</value>
-  </data>
-  <data name="btnClient.Text" xml:space="preserve">
-    <value>العملاء</value>
-  </data>
-  <data name="btnSalesQuotation.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        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
-</value>
-  </data>
-  <data name="btnSalesQuotation.Text" xml:space="preserve">
-    <value>عرض سعر</value>
-  </data>
-  <data name="btnSalesOrder.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        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
-</value>
-  </data>
-  <data name="btnSalesOrder.Text" xml:space="preserve">
-    <value>امر بيع</value>
-  </data>
-  <data name="buttonItem15.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        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
-</value>
-  </data>
-  <data name="buttonItem15.Text" xml:space="preserve">
-    <value>اشعار شحن</value>
-  </data>
-  <data name="btn_SalesInvoice.Text" xml:space="preserve">
-    <value>فاتورة مبيعات</value>
-  </data>
-  <data name="btnSalesReturn.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        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
-</value>
-  </data>
-  <data name="btnSalesReturn.Text" xml:space="preserve">
-    <value>مرتجع مبيعات</value>
-  </data>
-  <data name="ribbonBar2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>468, 94</value>
-  </data>
-  <data name="ribbonBar2.Text" xml:space="preserve">
-    <value>الحركة</value>
-  </data>
-  <data name="ribbonPanel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1198, 97</value>
-  </data>
-  <data name="btnBackup.Text" xml:space="preserve">
-    <value>النسخ الاحتياطي</value>
-  </data>
-  <data name="btnRestor.Text" xml:space="preserve">
-    <value>استعادة من نسخة احتياطية</value>
-  </data>
-  <data name="btnScan.Text" xml:space="preserve">
-    <value>مسح ضوئي</value>
-  </data>
-  <data name="ribbonBar9.Location" type="System.Drawing.Point, System.Drawing">
-    <value>305, 0</value>
-  </data>
-  <data name="ribbonBar9.Size" type="System.Drawing.Size, System.Drawing">
-    <value>248, 94</value>
-  </data>
-  <data name="ribbonBar9.Text" xml:space="preserve">
-    <value>.</value>
-  </data>
-  <data name="btnCofig.Text" xml:space="preserve">
-    <value>الاعدادات</value>
-  </data>
-  <data name="btnCompanyData.Text" xml:space="preserve">
-    <value>بيانات الشركات</value>
-  </data>
-  <data name="btnStores.Text" xml:space="preserve">
-    <value>المستودعات</value>
-  </data>
-  <data name="btnBanks.Text" xml:space="preserve">
-    <value>البنوك</value>
-  </data>
-  <data name="ribbonBar1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>295, 94</value>
-  </data>
-  <data name="ribbonBar1.Text" xml:space="preserve">
-    <value>البيانات الاساسية</value>
-  </data>
-  <data name="ribbonPanel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1198, 97</value>
-  </data>
   <data name="rb_MainData.Text" xml:space="preserve">
     <value>البيانات الاساسية</value>
   </data>
@@ -1302,51 +1223,6 @@
   </data>
   <data name="ribbonControl1.Size" type="System.Drawing.Size, System.Drawing">
     <value>1198, 140</value>
-  </data>
-  <data name="ribbonControl1.SystemText.MaximizeRibbonText" xml:space="preserve">
-    <value>&amp;Maximize the Ribbon</value>
-  </data>
-  <data name="ribbonControl1.SystemText.MinimizeRibbonText" xml:space="preserve">
-    <value>Mi&amp;nimize the Ribbon</value>
-  </data>
-  <data name="ribbonControl1.SystemText.QatAddItemText" xml:space="preserve">
-    <value>&amp;Add to Quick Access Toolbar</value>
-  </data>
-  <data name="ribbonControl1.SystemText.QatCustomizeMenuLabel" xml:space="preserve">
-    <value>&lt;b&gt;Customize Quick Access Toolbar&lt;/b&gt;</value>
-  </data>
-  <data name="ribbonControl1.SystemText.QatCustomizeText" xml:space="preserve">
-    <value>&amp;Customize Quick Access Toolbar...</value>
-  </data>
-  <data name="ribbonControl1.SystemText.QatDialogAddButton" xml:space="preserve">
-    <value>&amp;Add &gt;&gt;</value>
-  </data>
-  <data name="ribbonControl1.SystemText.QatDialogCancelButton" xml:space="preserve">
-    <value>Cancel</value>
-  </data>
-  <data name="ribbonControl1.SystemText.QatDialogCaption" xml:space="preserve">
-    <value>Customize Quick Access Toolbar</value>
-  </data>
-  <data name="ribbonControl1.SystemText.QatDialogCategoriesLabel" xml:space="preserve">
-    <value>&amp;Choose commands from:</value>
-  </data>
-  <data name="ribbonControl1.SystemText.QatDialogOkButton" xml:space="preserve">
-    <value>OK</value>
-  </data>
-  <data name="ribbonControl1.SystemText.QatDialogPlacementCheckbox" xml:space="preserve">
-    <value>&amp;Place Quick Access Toolbar below the Ribbon</value>
-  </data>
-  <data name="ribbonControl1.SystemText.QatDialogRemoveButton" xml:space="preserve">
-    <value>&amp;Remove</value>
-  </data>
-  <data name="ribbonControl1.SystemText.QatPlaceAboveRibbonText" xml:space="preserve">
-    <value>&amp;Place Quick Access Toolbar above the Ribbon</value>
-  </data>
-  <data name="ribbonControl1.SystemText.QatPlaceBelowRibbonText" xml:space="preserve">
-    <value>&amp;Place Quick Access Toolbar below the Ribbon</value>
-  </data>
-  <data name="ribbonControl1.SystemText.QatRemoveItemText" xml:space="preserve">
-    <value>&amp;Remove from Quick Access Toolbar</value>
   </data>
   <data name="buttonItem27.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -1399,6 +1275,7 @@
         5QAAAABJRU5ErkJggg==
 </value>
   </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="$this.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
     <value>Yes</value>
   </data>

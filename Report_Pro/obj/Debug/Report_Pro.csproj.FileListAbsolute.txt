@@ -2280,3 +2280,4 @@ C:\WalidSoft\Report_Pro\obj\Debug\Report_Pro.TrustInfo.xml
 C:\WalidSoft\Report_Pro\obj\Debug\Report_Pro.exe.manifest
 C:\WalidSoft\Report_Pro\obj\Debug\Report_Pro.application
 C:\WalidSoft\Report_Pro\obj\Debug\Report_Pro.csproj.CopyComplete
+C:\WalidSoft\Report_Pro\obj\Debug\Report_Pro.csprojAssemblyReference.cache
