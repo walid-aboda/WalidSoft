@@ -166,7 +166,7 @@ namespace Report_Pro.RPT
               
 
                     getInvoiceTotal(ser_1, text1, text2, cyear_1);
-                    DataTable dt_Co = dal.getDataTabl_1(@"select * from Wh_Oiner_Comp ");
+                    DataTable dt_Co = dal.getDataTabl_1(@"select * from Wh_Oiner_Comp where Company_No = LEFT ('"+Branch.ID.Text+"',1)");
 
                     string vat_no = dt_Co.Rows[0]["Comp_Vat_no"].ToString();
                     string Co_Name = dt_Co.Rows[0]["Company_e_name"].ToString();
@@ -499,7 +499,7 @@ namespace Report_Pro.RPT
             }
         }
 
-
+        //----- ///
         private void getSalesInv(string ser_, string branch_, string transaction_, string cyear_)
 
         {
